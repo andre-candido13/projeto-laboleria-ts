@@ -10,7 +10,7 @@ server.use(cors())
 server.use(express.json())
 
 //routes
-server.use([ ])
+
 
 
 server.listen(5000, () => console.log("Servidor ON na porta", + 5000))
